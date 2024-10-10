@@ -1,3 +1,5 @@
 {
-"s_SteamOwnerID": "76561198156936280"
+  "IPC": true, #开启IPC，即网页版管理
+"IPCPassword": "password", #IPC管理密码
+"s_SteamOwnerID": "76561198156936280" #steam的64位id 通过这里获取 先去steam个人资料复制网页URL然后去 http://steamrep.com/ 获取64位id
 }
